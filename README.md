@@ -20,6 +20,14 @@ Wireframes are used to see UX, basically the way user will interact with the app
 ![Index](Documentation/LFIndex.png)
 
 
+
+## Mockup - High Fidellity
+A high fidellity design will mostly be recognized as a Mock up, this is the way the app will look, colors, fonts used, etc.
+
+### The Page
+![Index](Documentation/HFIndex_1633.png)
+
+
 ## Made with
 * [AdobeXd](https://www.adobe.com/mx/products/xd.html) - Adobe Xd
 
